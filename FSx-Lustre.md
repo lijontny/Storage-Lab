@@ -13,6 +13,9 @@
 5. Mount FSx
    - https://docs.amazonaws.cn/en_us/fsx/latest/LustreGuide/getting-started-step2.html
    - https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-systems.html
+   ```shell
+   aws fsx describe-file-systems --query 'FileSystems[0].LustreConfiguration.MountName' | tr -d '"'
+   ```
     
 6. EXAMINE THE FILE SYSTEM
    https://www.hpcworkshops.com/06-fsx-for-lustre/05-check-fs.html
