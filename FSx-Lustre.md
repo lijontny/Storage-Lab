@@ -1,4 +1,5 @@
 # FSx Lustre
+![Lustre](Images/Lustre-Lab-4.jpg)
 1. Create a FSx File System
    a.  Click Create File System 
    b. Select Amazon FSx for Lustre 
