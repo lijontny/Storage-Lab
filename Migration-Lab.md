@@ -19,7 +19,7 @@
     2/ Click on Create bucket
 
     3/ General Configuration:
-       - Bucket name: <company>-hpc-<anyuniquename>
+       - Bucket name: $company-hpc-$anyuniquename
        - Don't change any other option
        - Create bucket
     
