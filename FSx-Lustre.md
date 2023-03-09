@@ -20,8 +20,8 @@
    b. Click on File system ID of FSx created in Step 1
    c. Select Backup tab and Click Update
    ![FSx-Backup](Images/FSx-Backup.png)
-   d. Select "no" for Enable automatic backups
-   e. Check acknowledge button and Click Save
+   d. Select "no" for Enable automatic backups <br>
+   e. Check acknowledge button and Click Save <br>
    f. Informations:
       - File system path: `/`
       - Data repository path: S3://<bucket created in [Lab1](Migration-Lab.md)
