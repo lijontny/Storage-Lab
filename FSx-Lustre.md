@@ -10,6 +10,7 @@
      - VPC: select SID-vpc
      - Security Group: select SID-ssh-sg
      - Choose the Subnet: SID-subnet1 
+     - Storage capacity: 1.2 TB
        
    f. Click Next
    g. Click "Create file system"
