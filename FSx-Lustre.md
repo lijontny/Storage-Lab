@@ -24,7 +24,7 @@
    e. Check acknowledge button and Click Save
    f. Informations:
       - File system path: `/`
-      - Data repository path: S3://<bucket created in [Lab1](Migration-Lab.md)>
+      - Data repository path: S3://<bucket created in [Lab1](Migration-Lab.md)
       - No change to default settings
       - Click "Create"
    
